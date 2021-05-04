@@ -30,13 +30,13 @@ a function that will take a sentence and will turn it into a string of digits. P
 a space (" ") character can be represented by the number 999.
 a period (".") character can be represented by the number 666.
 
-| input  |          Output |
-| :----: | --------------: |
-|   a    |             010 |
-|   A    |             011 |
-|   z    |             260 |
-|  Zaza  |    261010260010 |
-| A dog. | 011999040150070 |
+| input  |             Output |
+| :----: | -----------------: |
+|   a    |                010 |
+|   A    |                011 |
+|   z    |                260 |
+|  Zaza  |       261010260010 |
+| A dog. | 011999040150070666 |
 
 To test your function, please send me what the following sentence outputs from your function.
 
