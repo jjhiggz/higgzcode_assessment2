@@ -7,8 +7,8 @@ Hello
 For each letter, we need three numbers to represent that letter. The first two numbers are its placement index in the alphabet. in this example:
 
 ```
-H => 8
-e => 5
+H => 08
+e => 05
 l => 12
 l => 12
 o => 15
@@ -40,4 +40,4 @@ a period (".") character can be represented by the number 666.
 
 To test your function, please send me what the following sentence outputs from your function.
 
-"The quick brown fox jumped over the fence. I love sauerkreut."
+The quick brown fox jumped over the fence. I love sauerkreut."
